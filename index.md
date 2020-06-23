@@ -10,3 +10,7 @@ Dieser Text enthält mehr als 30 Wörter, und sollte damit ausreichen, um den n�
 * Benutzt Discord
 * Macht gerade eine Aufzählung
 * Belegt den Let's Git Kurs des HPIs
+
+Wie Dani immer sagt:
+> Orange juice sucks
+> yeah
